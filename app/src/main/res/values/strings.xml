@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HomeWork3-2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">next</string>
+    <string name="back">BACK</string>
+    <string name="second_fragment">SECOND FRAGMENT</string>
+    <string name="third_fragment">THIRD FRAGMENT</string>
+    <string name="fourth_fragment">FOURTH FRAGMENT</string>
+    <string name="fifth_fragment">FIFTH FRAGMENT</string>
+    <string name="first_fragment_text">First fragment</string>
+    <string name="second_fragment_text">Second fragment</string>
+    <string name="third_fragment_text">Third fragment</string>
+    <string name="fourth_fragment_text">Fourth fragment</string>
+    <string name="fifth_fragment_text">Fifth fragment</string>
+</resources>

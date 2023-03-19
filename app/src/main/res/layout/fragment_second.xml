@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".FourthFragment">
+
+    <TextView
+        android:id="@+id/second_fragment_text"
+        style="@style/text_style"
+        android:text="@string/second_fragment_text"/>
+
+
+    <TextView
+        android:id="@+id/first_text"
+        style="@style/text_style"
+        android:text="@string/hello_blank_fragment" />
+
+    <TextView
+        android:id="@+id/second_text"
+        style="@style/text_style"
+        android:text="@string/hello_blank_fragment" />
+
+    <TextView
+        android:id="@+id/third_text"
+        style="@style/text_style"
+        android:text="@string/hello_blank_fragment" />
+
+    <Button
+        android:id="@+id/fifth_fragment_button"
+        style="@style/button_style"
+        android:text="@string/fifth_fragment" />
+</LinearLayout>
